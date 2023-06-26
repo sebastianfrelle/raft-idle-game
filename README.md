@@ -1,0 +1,1 @@
+Work in progress. An idle-game-ish network simulation where nodes send messages to one another over a custom TCP-based protocol. Ultimately, the goal is for the network to reach consensus using Raft, and for randomized network partitions, single-node faults, and other things to occur to mess with that consensus.
